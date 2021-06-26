@@ -1,9 +1,10 @@
 body{
     margin: 0 0;
+       background-color: black;
 }
 .main-top{
     width:1170px;
-    background-color: black;
+ 
     background-size:cover;
     height: 1900px;
     text-align:center;
